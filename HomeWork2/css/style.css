@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'Pobeda Regular';
+	src: url('../fonts/pobeda_regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/pobeda_regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/pobeda_regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/pobeda_regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/pobeda_regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/pobeda_regular.svg#pobeda_regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+body {
+    background-color: rgb(237, 209, 209); 
+}
+h1 {
+    color: rgb(228, 19, 19);
+    font-family: 'Pobeda Regular', sans-serif;
+}
+ol {
+    color: rgb(211, 64, 14);
+}
+p {
+    color: brown;
+}
+ul {
+    color: rgb(191, 81, 13);
+}
+h3 {
+    color: rgb(206, 33, 33);
+}
+h4 {
+   color: rgb(201, 18, 119); 
+}
+.bib_text {
+    font-size: 20px;
+}
